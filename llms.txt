@@ -1,0 +1,26 @@
+# Aurora Heating & Cooling
+
+> Aurora Heating & Cooling is a local HVAC company serving Aurora, York Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 727-3184  |  Email: contact@auroraheatingcooling.ca  |  Website: https://auroraheatingcooling.ca
+
+Service areas: Aurora, Markham, Richmond Hill, Newmarket, Vaughan, Keswick, Stouffville, King City
+
+## Key pages
+
+- [Home](https://auroraheatingcooling.ca/): Aurora Heating & Cooling homepage with service overview and FAQ
+- [About](https://auroraheatingcooling.ca/about/): About the company and service area
+- [Contact](https://auroraheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://auroraheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Aurora, Ontario
+- [AC Installation & Repair](https://auroraheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Aurora, Ontario
+- [Heat Pumps](https://auroraheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Aurora, Ontario
+- [Duct Cleaning](https://auroraheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Aurora, Ontario
+- [Thermostats](https://auroraheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Aurora, Ontario
+- [Ductless AC Installation](https://auroraheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Aurora, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Aurora are answered on the homepage.
